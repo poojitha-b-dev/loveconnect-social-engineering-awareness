@@ -225,6 +225,18 @@ Through this project, users can understand:
 
 ---
 
+
+
+# Author
+
+### Banoth Poojitha
+
+# GitHub:
+https://github.com/poojitha-b-dev
+
+---
+
+
 ## ⚖️ Disclaimer
 
 This project was created exclusively for educational and academic purposes.
